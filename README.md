@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FRED - Fast Refinement for Full Resolution Equirectangular Depth Estimation
 
 **FRED** is a Python package for high-resolution depth estimation on 360° equirectangular panoramic images using batched PromptDA inference with optimized GPU processing.
@@ -208,7 +207,3 @@ MIT License - see LICENSE file for details
 
 - Built on top of [PromptDA](https://github.com/DepthAnything/PromptDA)
 
-=======
-# FRED
-Fred
->>>>>>> 8f1a7d008248052f04f21eeac1d13016e50421f0
